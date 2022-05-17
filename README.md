@@ -26,6 +26,6 @@
 
 [Backtrader来啦：可视化篇（重构）](https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653317947&idx=1&sn=8422b62036c4a0693114f6b779fb9cde&chksm=802da92eb75a20380ed04560bf2ed947d7879d5f0f806b094dccc30cc8de83e269c73c375931&scene=21#wechat_redirect)
 
-[Backtrader 常见案例汇总](https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653330626&idx=1&sn=83bed9723d81cd6b636f3efff43db926&chksm=802d5ed7b75ad7c19927c4fce4d5da4aa39d87bf9e519f1c5e64ee4aae82cdbb55c7e5ef5c65&token=1166282202&lang=zh_CN#rd)
+[Backtrader来啦：常见案例汇总](https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653330626&idx=1&sn=83bed9723d81cd6b636f3efff43db926&chksm=802d5ed7b75ad7c19927c4fce4d5da4aa39d87bf9e519f1c5e64ee4aae82cdbb55c7e5ef5c65&token=1166282202&lang=zh_CN#rd)
 
 Backtrader 常见问题汇总（近期上线）
